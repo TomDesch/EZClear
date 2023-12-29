@@ -1,0 +1,14 @@
+name: EZClear
+author: StealingDaPenta
+main: io.stealingdapenta.ezclear.EZClear
+version: 1.0
+description: Clear the console easily :)
+api-version: 1.20
+
+commands:
+  consoleclear:
+    description: Clears the console
+    usage: /<command>
+    aliases:
+      - ezclear
+      - clearconsole
